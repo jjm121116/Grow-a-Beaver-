@@ -1,11 +1,17 @@
 # Grow-a-Beaver🦫🦫🦫-
 In this game, you have to upgrade your beaver until level 50. Discover 51 different types of beavers, enjoy the risk, and go bankrupt!
 Basic Rules : 
+
+
 **1. Upgrading**🦫
 Just click the upgrade button to upgrade your beaver. The chances are shown in green below the beaver's level.
 If you fail upgrading your beaver, you go down 1 level. However, if you fail 3 times in a row, you go back to level 1. 
+
+
 **2. Money**🦫
 You get a specific amount of money for each successful upgrade. WIth the money obtained, you can buy 2 different items in the shop.
+
+
 **3. The Shop**🦫
 The shop sells 2 items :
 - Protection Ticket
